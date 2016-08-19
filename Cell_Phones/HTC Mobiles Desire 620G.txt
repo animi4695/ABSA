@@ -1,0 +1,992 @@
+
+ I've been using this phone for the past one week and trust me, this is one of the best, High-range android HTC variants. I'm an android junior developer and i've been testing the performance of this phone at every possible rate. Please review after using this product and not by seeing the specs. This Phone has the following Pros and Cons :
+Pros :
+1. Sharp super LCD display
+2. Beautiful design and very slim, obviously fits your pocket.
+3. Camera ! ah yeah , how did i forget that . It has a hot back camera of 8MP which completely suits for the resolution of the phone screen (5 inch approx) and with a pixel density of 294 ppi approx., the camera can be compared to any other smartphone's camera. The zoom density is simply superb and the inbuilt editing tools enhance the level of the camera's output to a very large extent. pictures are quietly brilliant ! 
+ The front camera is of 5MP pixel clarity, it also equals the performance of the back camera to some extent. focusing can be done automatically or manually. The picture clarity if both the front and back cameras are at their best class ! A big thumbs up for this .
+4. Next comes the processor, Memory and RAM. Many people confuse by reading the inbuilt memory as 8GB and they get infuriated after they find that only 4.3GB is available as an internal storage. The thing is, New android phones are having their internal memories being split internally again, into two partitions. out of 8GB, the 4.3GB memory space is the one which acts as an internal SD card and no system files are present in this 4.3GB slot ! (please read that twice and understand) , the remaining memory out of 8GB is taken as the system partition where no user files can be stored. 4.3GB-5.5GB IS THE SAME WHICH IS AVAILABLE IN ALL ANDROID SYSTEMS THAT HAVE 8GB INTERNAL where the rest is taken as system files storage. This is done after the phone is booted, usually. But in this phone it is factory made. SO IT DOESN'T MAKE ANY DIFFERENCE.  
+Read only Memory (RAM) is not a concern where the processor is of Octa core type. this phone runs on a mediatek MT6*** variant , which has a clock speed of 1.7GHz inbuilt and it can also be overclocked to 2GHz full triggering. If you take a look at other smartphones, the processor will either be of quad core or of dual core but OCTA CORE is rare and trust me, THIS PHONE IS FREAKIN' FAST ! AND NO BOILING AT THE BACK :D Again a BIG thumbs up for the performance of this phone. Please Note : Mediatek is not anyway behind snapdragon . The camera clarity, performance, UI softness and Gaming depends on this Mediatek beast that supports this phone and its the best part in this variant .  
+5. Next is the battery, which is of 2100 mAh capacity and the phone stands for day (Trust me!) when the WiFi is turned on throughout. Isn't that amazing ? Now i guess that is enough .
+ 6. Looking at the UI now. User interface is, as the name suggests, completely user friendly. it has a quick ,less glitching user interface which shows that anyone can use this phone at a high degree of ease. 
+7. Another Pro is the graphics. Heavy duty games like Dead trigger etc run smoothly without heating up and without any lag. The Mali 4** graphics chipset variant is surely a big pro in this device. 
+ 8. All other google features, browsers, inbuilt apps, HTC exclusive features make this phone a very good first class mid rager and as well as a high ranger ( you can compare this device with any high range phone) 
+Cons : 
+1. First thing would be the glossy look. im sure that many people wouldn't actually prrefer so much gloss at the back. but u can always get rid of it by using a case at the back and i guess the GLOSSY LOOK wouldn't bother the buyers of this phone as far as the true specs performance ratio and other features are concerned.  
+2. The third party apps present in the phone cannot be hosted directly from the ext3, that is the external SD card as only the apps data is stored in the memory card. This can also be passed by getting a root access, and i wouldn't recommend regular users to get root permissions. This memory concern is NOT A BIG DEAL here in this phone . 
+3. The specs list of this phone DOESN'T specify that the audio has a feature of boom sound. But the sound clarity is pretty decent. 
+4. Now i wouldn't recommend Music lovers and sound engineers to use the headset that comes inbox with this phone as it is not that good. Since this phone has a universal 3.5mm jack, any good brand headphones can be replaced instead of the inbox pair, and ofcourse ! the clarity of sound is awesome if you use any THIRD PARTY headphone.  
+Overall, This phone is a Great at this price range. It is NOT unworthy of the money u pay, it is NOT anywhere behind other variants of this world :D . being a developer, I recommend this phone to everyone who is searching for a good HTC phone at this price. A BIG THUMBS UP (y).  
+ Hi all, this is my fifth day with this phone. Bought from local store. 
+Pros: 
+1. Android Kitkat 4.4.2
+2. Sharp HD display
+3. Great camera and sharp images, Front 5mp rear 8mp with anti glare glass
+4. Superfast with 1.7 Ghz octacore Processor and 1GB RAM
+5. Good battery backup with 2100mah capacity
+6. 8GB onboard memory (but only 4 GB available user memory)
+7. Front facing loudspeaker, (as per spec on various sites, they say it has stereo speakers but only lower speaker works when phone rings and you play music)
+8. Torch and file manager pre-installed
+9. Phone doesn't heat up.
+10. Looks and feel is good  
+Cons:
+1. The phone is glossy. It catches fingerprints and scratches easily, and may slip out of hand.
+2. You can't remove sim cards and sd card without removing the battery
+3. Headphone audio quality is not that good until you adjust equalizer and volume level is low
+4. LCD display contrast ratio under sunlight is questionable
+5. There is no notification LED
+6. UI is a mixture of HTC sense and stock android, some sense UI features are missing as compared with my Desire X
+7. Loudspeaker doesn't have boom sound  
+Summary: 
+You can go for this phone if the cons doesn't matter to you.Overall looks, specifications and performance is impressive. 
+ Best Phone Within Budget. 
+Pros:
+Best Built in Quality
+Awesome Sound in Speakers and Earphone
+Good Battery Back up
+True Octacore Processor
+HTC Sense 6 is a Great Skin
+No Heating Issues
+Robust Configuration
+Impressive cameras( Both Front and Rear)
+Storage: 4.38gb for both Apps and Multimedia Storage
+No lagging
+Touch is Good 
+Cons
+Cannot Move Apps to External Storage(Cab be moved by Rooting)
+It's more than Enough for Apps 
+Finally a Superb Phone from HTC Within 15k Budget
+It's best and better than Moto G and Micromax Canvas Gold:)   
+ After waiting for over 4 months and looking at countless phones. Finally settled on this one. About me: I am a journalist who reviews tech and hence, it is really hard to please me. I didn't want to spend over 20k on my phone and that was the only limit I had set. Let's go about the things one by one: 
+1. Display: Really good, high pixel density display that never puts you off as long as you keep it on auto-brightness and let it do its magic in different ambient settings. Sun legibility is top notch too. 
+2. Processing: Although it is a really short time to say about its long term prowess but the processor and ram look capable of pulling just about any stunt. I have so installed a total of 200 apps on my phone with BlinkFeed set up and notifications on for Instagram, Twitter, WhatsApp, Hike and Emails but the phone never slows down for a mili second. (Previously used Nexus 5, Moto E and Moto G) 
+3. Battery life: Since I am mostly out and lazy enough to not charge my devices every moment, I was keen on getting a device with a lasting battery but this is a massive powerhouse when it comes to battery. I used it all day with sync on and 3G data with half an hour calling and no games and the battery is still at 70% at the end of the evening. Very impressed. 
+4. Keyboard: Even though I am not a fan of inbuilt keyboards, I found the HTC sense keyboard pretty usable but switched to my trusted SwiftKey on the second day to type while I swipe my fingers when walking around. Works like a charm. 
+5. Camera: The camera quality is several points higher compared to the Moto G2 and the front camera is perfect for selfies, even though I hate them. 
+6. Body: The make of the phone is quite pleasing but the back is glossy. Fixed it with a matte finish back panel. 
+7. Notification LED: Missing from the phone but you are unlikely to miss it that much especially with the dot matrix cover. (google it) 
+8. Overall: The phone is a definite value for money device and comes with that extra appeal that's missing in bland Moto devices and a pleasing HTC UI which got updated the first thing when I booted device. 
+Verdict: Specs on the paper fall like marbles in comparison to the overall performance of this device. Extremely happy. 
+Disclosure: Bought it from Another website. 
+ In other online site it's price is around Rs.13000. I am very much interested with this product 
+I will purchase it only from flipkart. 
+ Pros:-
+1. Fastest when it comes to speed. I compared it with Moto G2 and iphone 4S and guess what...HTC is faster. Gallery, camera, whatsapp...everything opens faster than both other phones. Although moto g2 stands just behind it in speed....iphone 4S is far behind.
+2. Really awesome display.....even many of my friends have complemented about it's display.
+3. Very good camera. If you switch on the HDR...it takes unbelievable photos in low light and you dont even need it's flash....it's so good. Front camera is the best.
+4. The battery is very powerful. The management of battery power in the device is very efficient. It beats the Moto G2 by a very big margin when it comes to battery.
+5. Front look is very cool just like the beauty you expect from HTC....and the phone is very slim which makes it look much more stylish.
+6. Android Kitkat
+7. HTC UI. some very awesome features which will make you feel why HTC is so special. The alarm, camera, 3-D panorama, clock, music player....all have very cool features. 
+8. Looks and feels good in hand.
+9. HTC Blinkfeed 
+CONS:-
+1. Phone is glossy and catches fingerprints.
+2. Apps cannot be moved to SD card but 4.39GB is enough but the apps can be moved after rooting.
+3. Although the front look is very classy.....the back look is dull and it catches finger prints too....but you can change the back cover for less than 200 and it will look perfect.
+4. Phone is slippery. The phone is very smooth and often slips through hands. 
+Now that i have this Phone and i have compared it with my friend's Moto G2... i can say that this phone is better than Moto G2 specially when it comes to speed, camera, battery, UI and features. I have compared the speed of both phones while running subway surfer, asphalt 8, opening gallery, camera and HTC always beats G2. Both phones have almost same level of Rear Camera with G2 slightly lagging behind but HTC beats down Moto by a large margin in case of front camera....the front camera is really very good. G2 stands nowhere when it comes to battery....and believe me this phone has really very good battery. The features of this phone and UI are very cool and it is obvious considering this is HTC. I was confused between HTC Desire 620g and Moto g2 and i finally bought this....and believe me you will always be happy with your decision if you buy HTC.
+Really awesome phone...don't think..just buy it!!  
+ I am using HTC 620G since 2 Weeks and it's performance is really good 
+Merits: Good Display, Nice touch, Nice color production, good Ram, nice processor, Good Sound, good battery back up, No hang problem, Both the cameras are good in this range 
+Demerits: No Notification Light, only Support Micro Sim cards 
+Verdict: Best Buy in this range and Better than Moto G2 
+ Got this delivered by flipkart within a day so thumbs up flipkart for it . 
+Worth every penny of the 14k you spend for it ! Most importantly : All you MOTO G lovers do check this phone out , with just 1k more price it gives you a much better device . 
+I'll brief out my pros and cons after a day of usage 
+Pros:
+1) Amazing looks . Now merely looking one may even wonder it it is a 30k phone .. Yessss :-) ... #htc 
+2) Camera : The rear camera is very good too but when it comes to front cam , it is truly a masterpiece .. Bingo !
+3) Processor : One may think it has got a mediatek processor not a much hyped qualcomm one , but peeps its an true octo core 1.7Ghz mediatek processor which is not only at par but better than a snapdragon 400 which only works at 1.2Ghz . And yes Asphalt 8 is running perfectly fine on mine with zero lag.
+4) UI : We've got HTC BlinkFeed here which looks pretty cool . 
+5) Touch : Though not a gorilla glass , but it has got a pretty smooth touch. 
+Cons:
+Glossy : All your fingerprints stay on the body because of some shaggy back plastic body used . So buying a external back cover is a must.
+Speaker : Only bottom speaker works while playing music so dont expect too much from the speakers . Although clarity is amazingly good. 
+So people i know Moto G is also not a bad option at this range but if you're looking for a slimmer and better looking phone with slightly better features just close your eyes and go for it .. :-) 
+ First of all the form factor of the phone is brilliant ah build is good... it a bit lengthy which makes it difficult at times to handle it. Next the display resolution is brilliant and this is one of the reasons why I chose this over Redmi Note even though it had a 2 GB RAM.
+The phone is smooth and has zero-lag even when 5-8 apps are running in the main process. The camera quality is awesome and the front cam is brilliant. Camera comes with Face Beauty mode and Gesture Click. I don't find any difference when I use phones powered by Qualcomm processor and MediaTek ..So MediaTek is not a problem at all... It serves good. Battery backup is brilliant lasts more than a day even with mobile data on.
+Even though the phones comes with a 1.7GHz octa-core processor ..It doesn't heat up much. Music lovers there isnt much for you...you ppl may even get disappointed the stock headphones are poor . I tried my Sennheiser STREET II headset bt still the Music experience was poor. Dont change to ART runtime ..phone runs a bit slow on ART runtime...so better leave it Dalvik runtime(it is Dalvik runtime by default) .Make sure you also get a silicone back cover for it as the back panel carries fingerprints while using. HTC have rolled out an update to the phone. I ll edit review after updating to the new firmware.
+Even if you are upto hardcore gaming you can get this phone as I played Asphalt on this.. and it worked without any lag. Got it delivered in a day and thanks to Flipkart for the amazing one-day delivery guarantee.. 
+UPDATE : I could find no difference after updating ! 
+ Friends, 
+This is worst phone i ordered this phone and found it has touch issue. 
+flipkart has supported me good and they replaced the phone and i received today 
+But second one alos has display problem. display not working well it it reflecting in background of same display 
+today i have requested flipkart for refund/replace and waiting for the same. 
+from last one month just playing with this 
+ Hello i have brought this phone on 23rd december simply AWESOME phone price is little bit costly but awesome camera in day time awesome front facing camera is great. battery backup is little bit low but get charged quickly with its own charger. truely octacore processor while playing any game it doesn't get hanged .no heating problem. i will suggest that buy this phone. 
+ pros:
+great camera both front and back
+super fast performance for gaming
+htc band tag
+battery lasts for full day on avg use and on standby it goes 10 % on full day.. greeattt.
+supports otg pendrive  
+ phone have battery issue ,speaker also not working properly and main thing this the phone with dual sim which never detect the network.\ 
+And still after 10th day flipkart customer care did not support me.Still it have 30 day replacement Guarantee. 
+ Fake HTC Sense.Dull Display, OK Battery, Decent Camera, Not upgradable to 4.4.4 OS. Must ignore product. 
+ I have bought this mobile one and half month ago. I am very big fan of htc. But after this much time the phone hang only when i try to make call. Whether i m calling someone or someone else is calling me, the phone hangs so much that i m irritated. 
+ Hi guys, i have bought this device one month back.. even i have purchased this device by seeing all the reviews,but now i'm very happy with the device performance.. 
+Finally only one word to say, Worth a single penny and guys Go For It .. 
+ I have been using this phone for a month. I am completely satisfied with the performance, feel and looks of the phone. The price is not competitive though, even it offers value for money. I can recommend this phone to everyone who wants a powered phone with stunning looks. 
+ Recently I bought this handset from Univercell, based on the review read from internet.
+here are my experience with this handset
+Pros : 
+1. Good build quality
+2. Fast responsive
+3. Good output speak
+4. Good battery backup
+5. Good camera clarity 
+Cons
+1. without cover case handset slips as body finish is smooth
+2. Very bad headset output, as output does not differentiate between treble and bass  
+ 10 days of usage and a lot of experiment and a genuine feedback . Here it goes ****
+1) Good Looks but Cheap Built and feel. Camera is average . Have certain focus issues but Ok. 
+2) Call quality not impressive. MOTO g2 was better i feel when it comes to mic sensitivity. 
+3) Apps work smooth. Multitasking with a 2 sec lag but its expected out of a 1GB RAM 
+4) The most appreciated part is Battery Life. 1.5 days average user and heavy data user it lasts just over a day !!! That really surprised me. 
+5) Worst UI when it comes to HTC blinkfeed. No HTC sense is a drawback. HTC has lost its differentiating factor. very bad decision. hardware compromise is understood but OS... Very stock android.
+6) Very IMPORTANT - It comes with KITKAT 4.4.2 and no update to 4.4.4 :-( :-( :-( 
+7) headphones provided with the phone , i bet you cant even sell it to a friend for 50 bucks 
+8) Good signal and Wifi
+9) Display is good and colours very crisp and text is readable at all lights
+10) Average Speaker and a very bad stock music player. Better get some paid music player if u are MUSIC LOVER
+Bottomline :- Go for it if u are ok with all this else get MOTO G2. Both have its own pros and cons. The ultimate decision lies with you. Go with your Heart. Thank You Guys 
+ Good looks, expandable memory,light weight, ram is ok, available 4 gb out of total 8 gb internal memory, YES IT SUPPORTS OTG
+ CONS- Poor sound output 
+ you will not regret buying it unless you can ignore these con...` 
+- it is a dirt magnet unless you keep it with care
+- it is not upgradable even to android 4.4.4...you will get two updates but the android version remains at 4.4.2
+- you cannot insert memory cards and sim cards without removing battery.
+- only the lower speaker works when you watch some video or talk to someone on loudspeaker.
+- 4 gb of internal memory for user apps. 
+but you will like this phone for its.. 
+- great camera quality. the 5 mp front cam is superb.
+- htc sense user interface with htc blinkfeed which you wont get in phones of other company.
+- attractive design.
+- 5 inch hd display which does not glare outdoors.
+- mediatek octa core processor which runs without any lag. you wont get such processor from relevant companies at this price. 
+you can choose between this and moto g...you get better hardware and classy looks in htc and better software(android lollipop...and further upgrades) in motorola. 
+ htc is one of my favorite brand,after blackberry 
+I DIDNT LIKE-product is good but not as i am expecting,old features,old graphics,useless touchpad,sound is ok,headphones,doesnt give you comfort of music... 
+I LIKE-feel and look was awesome looking a sexy phone,camera was beauty front as well as back both are mind blowing and last one is HTC BLINK working fantastic. 
+if u r really looking for good looking phones accept configurations,so u can really go for it. 
+ i m using it since 1 weeks. here is no lagging no hanging still now. fast speed , good touch screen , sharp HD display , sound quality is good. 
+ The device according specs it is priced very high and according to my research it is most highly priced in India as compare to other countries . It is overpriced in India. A big thumbs down. But ya look are preety good buy it feels plasticy. There are much much better options available in the market. 
+ This is totty worst cellphone of this price. 
+Too expensive and having a lot of problem with this phone. 
+Body cover is very poor in look body is made of totally plastic. if ones it will drop down definitely crack occur. 
+This phone is look like a vey cheap china phone. 
+I recommend to my friend don't buy this phone.  
+ except the octa core processor I dint find anything usefull in this phone.camera is so sad as it is having 2mp.display quality too poor.at this price this phone is not usefull. 
+ Decent device, but looks so damn plastic'y, glossy back looks terrible, and is going to be a dirt magnet.
+Design is awesome as usual. But HTC needs to work on their body to screen ratio. Just too much bezel. They are really close to a perfect mid-ranger. 
+ i buy this phone 3 days later.. i feel its got heated very fastly. and the back cover is plastic ..it will slipped hand. and the accesseries are not in the market that is a great drawback. and i feel some healthy intrernal problems like wen i using this phone body heated very fastly. 
+ plzzz...dont buy this product........simply waste of money.....
+i m using it last 72hrs....and i had faced a lot of problem in this phone
+pros:-
+ 1> camera is good enough as we know htc camera is better than other camera
+ 2>loudspeaker is okay type
+cons:-
+ - display is not good........ as it gives hd display....but it is not
+ - cheap midiatek procesor instead of qualcomm snapdragon chipset
+ -at this price 1 gb ram is not enough
+ -built quality is not so good .made of plastic material
+ -lack of gorrila glass 
+so competative phone is MOTO G2,moto x(1st generation),.....go for moto g2 or moto x instead of 
+ HTC phone previous models are very nice look and usage .... but currently mobiles are not good ... the stucture is fully plastic .... i am very upset whet i seen that ..... 
+waste phone ..... ugly look ..... 
+ it's sleek and stylish . Phone looks bigger than normal 5 inch phone and it's sleek giving a good touch and feel. 
+ I love it.. Its better than Moto G regarding style and speed. you can go for it. I bought at same rate as moto G 
+ Mobile is not good and flipkart is really bad 
+they change after sale
+Mobile Touch is poor
+sound system not working in my mob
+i am really disappointed with flipkart
+and never buy anything from here 
+ Its a good one but some drawbacks are 1. No apps can be installed in card memory,even whatsapp, facebook photos and and videos ll store in phone memory. No option to move apps to card memory.
+2. Phone is little bit heavy. 
+ I bought this phone and I was happy that I got it in 3 days. Hats off to flipkart.  
+Then comes the product!!! 
+At its worst...
+The speaker doesn't work.
+The battery backup was only for 45 mins and I had to charge it 7 times on the first day I bought it.
+I charged t for 8 hours in the beginning and then started using it.When I came back from shopping in 2 hours., the phone was dead and I had to return the product. Thanks for the immediate refund Flipkart. Appreciate it!!! 
+ I've been using this phone since 15 days. 
+Look wise, its best
+both front (5mp) and main(8mp) cameras give a good pic
+Runs really smooth with 1.7Ghz and octa core processor.
+No cons found ( and i am sure i wont )
+Thank you flipkart for helping me choose the right product.
+Overall the best product at 12k 
+ in this set htc 620g have many problems that i am mentioning below. 
+ 1.it suddently switch off during uses.
+ 2.map & dailer unfortunatlly stopped.
+ 3.battary hates alot.
+ 4.touch is very slow.
+ 5.it freezes any time or during call.
+ 6.trable to connect to my pc.
+ 7.fast battery consumpation.
+ 8.cann't see in sunlight.
+ 9.rom is 8GB but it shows only 4GB. 
+ I am facing hell out of problems with this mobile, I bought this phone for around 12k. 
+For the first two months, it worked properly but then it started troubling.  
+Below listed are the problems i am facing hope it will be helpfull. 
+a. Sometimes it doesnt allow us to lift the cal.. screen wont show up.
+b. I had set a song as ring tone, it plays whole song whenever i get a cal.
+c. suddenly gets switch off.
+d. unable to transfer the files from laptop/desktop to this phone. 
+ An awesome mid range kitkat device for those who r not music lovers because it having poor sound quality otherwise its a perfect android phone.....GO FOR IT IF U R NOT MUSIC LOVER 
+ this mobile is sooper and style look..but battry backup is slow. i think in this mobile comapny will get in 3000 mah battery .so that is over all awasome battry backup i need so for 3000amh 
+ Bot it thru App on huge discount... got my master peice at just ten thousand eight hundred bucks... looks good.. handy and smart phone... 
+ Dont go on the name.
+The battery drains out so fast like just now it was 82 % and after that it become 78% 
+Wish i could have change it with other mobiles
+Other features are however ok 
+ using the phone since 45 days .... just in love with the phone ...amazing camera amazing performance.......  
+Verdict: You'll throw it away even if you receive it as a free gift. 
+It's not just a phone it's a phooooone (remember Nissan Sunny ad)
+It is same as Sunny. It is a looooonggg phone with a laaaargee display.
+You can use it as a stone when a dog is chasing you because its 160gm. 
+The only good thing I could find is its battery. It took 4 days to discharge it's battery completely. I used only one sim and average wifi browsing 3hrs a day and average music play 30minutes a day 
+Cons: 
+Music & sound 
+1. Speaker volume is very feeble
+2. Neither stereo speakers nor boom speakers
+3. Pathetic sound quality 
+4. Headset comes in sale package is the worst in the world. 
+Display & touch
+1. Black is not that black and white is not that white
+2. Poor touch response
+3. No htc Sense UI - it comes with stock OS. htc cheated customers by making ads that it had sense UI.
+4. Display is not 5" may be 4.8" because OS controls like home, back, recent app button take space. 
+Camera(rear)
+1. Camera app doesn't sense correct ISO/ Exposure/ Brightness
+2. They are claiming that it has camera tool. I couldn't find any. It's just a basic camera app.
+3. Video recording is also poor when camera is moving.
+4. There's no image stabilizer 
+5. Camera position is very bad. It captures our fingers also while taking a photograph 
+6. Use of flash is better in using it as a torch 
+Camera (front)
+1. You can take selfies but you cannot take groufies
+Pros: 
+Music & Sound
+1. Graphic equalizer is very good
+2. While using a good headset it reproduce high quality sound. 
+Display & touch
+1. Viewing angle is surprisingly great.
+2. Colours are natural
+3. Touch is OK while gaming
+4. Graphics is upto standard  
+Camera (rear)
+1. While manual setting camera is OK. 
+Camera (front)
+1. Front camera is surprisingly great and it takes crystal clear selfies. 
+ bought this phone a week ago ,on performance basis this phone can't match with MOTO G 2nd GEN,
+camera quality is lower,lag in playing heavy graphics game,heating, 
+ For the price its good mobile. Font Camera is great. Look wise its like some base model device back case gives the feel that it may slip from your hand easily, but the material is good. Headset buds are hard plastics, so it doesn't feel comfort to use. But performance wise its great till now (20 days) 
+ Camera quality - Average.
+Speaker - Below average.
+Battery Backup - Good
+Gaming - Good
+Multitasking - Good
+Memory - 4.3 GB usable only out of 8 GB  
+ Hi Love HTC Phones. Used HTC Desire HD A9191 for almost three years with no issues. I bought this phone week ago.. battery backup is not good for such big screen. BIG BIG DISAPPOINTMENT is that it does not have any notification LED light.  
+Some times call logs are messy.. it overwritten text.. hard to read and select.. this is really big trouble for me. Contact search UI is also very poor. 
+Really don't recommend this phone..  
+Looks wise its good phone to have :) 
+ Flipkart is taking too much time for delivery. 
+1. Display: Really good, high pixel density display that never puts you off as long as you keep it on auto-brightness and let it do its magic in different ambient settings. Sun legibility is top notch too. 
+2. Processing: Although it is a really short time to say about its long term prowess but the processor and ram look capable of pulling just about any stunt. I have so installed a total of 200 apps on my phone with BlinkFeed set up and notifications on for Instagram, Twitter, WhatsApp, Hike and Emails but the phone never slows down for a mili second. (Previously used Nexus 5, Moto E and Moto G) 
+3. Battery life: Since I am mostly out and lazy enough to not charge my devices every moment, I was keen on getting a device with a lasting battery but this is a massive powerhouse when it comes to battery. I used it all day with sync on and 3G data with half an hour calling and no games and the battery is still at 70% at the end of the evening. Very impressed. 
+4. Keyboard: Even though I am not a fan of inbuilt keyboards, I found the HTC sense keyboard pretty usable but switched to my trusted SwiftKey on the second day to type while I swipe my fingers when walking around. Works like a charm. 
+5. Camera: The camera quality is several points higher compared to the Moto G2 and the front camera is perfect for selfies, even though I hate them. 
+6. Body: The make of the phone is quite pleasing but the back is glossy. Fixed it with a matte finish back panel. 
+7. Notification LED: Missing from the phone but you are unlikely to miss it that much especially with the dot matrix cover. (google it) 
+8. Overall: The phone is a definite value for money device and comes with that extra appeal that's missing in bland Moto devices and a pleasing HTC UI which got updated the first thing when I booted device. 
+Verdict: Specs on the paper fall like marbles in comparison to the overall performance of this device. Extremely happy. 
+ there is nothing to look back .go for it. simply the best!! radiation level is incredibly low. battery life is superb and speed is also fantastic. picture clarity is great. go for it. 
+ I Bought this set 1 months ago.Decent device, but looks so damn plastic'y, glossy back looks terrible, and is going to be a dirt magnet.
+Design is awesome as usual. This set is mid ranger kitkat device and its touch is very smooth. its camera is so good. I really love it.. 
+ very good mobile within budget,
+Good cameras
+Good Battery Backup
+user friendly
+i will suggest to my friends for purchase of this mobile 
+ This one is the best in midrange mobiles from htc.
+It works smooth, no lag till now, cool look,good processor.
+If you are looking for brand with android then you have no option other than htc. 
+ battery is not meeting as per specification, apps are not able to move for memory card. this is out dated phone who expect update like lollipop and updated apps don't go for this, internal memory available only 4gb. it is not worthy for 14.3k comparing with moto g. 
+ Completely worth for every single penny, Best HTC handset at this price ! Loving it
+I've been using this phone for the past one week and trust me, this is one of the best, High-range android HTC variants. I'm an android junior developer and i've been testing the performance of this phone at every possible rate. Please review after using this product and not by seeing the specs. This Phone has the following Pros and Cons :
+Pros :
+1. Sharp super LCD display
+2. Beautiful design and very slim, obviously fits your pocket.
+3. Camera ! ah yeah , how did i forget that . It has a hot back camera of 8MP which completely suits for the resolution of the phone screen 
+ PHONE IS VERY GOOD.YOU CAN TAKE IT .IT IS VERY GOOD FOR ANDROID FEATURES .CAMERA IS VERY GOOD AND SOUND SYSTEM IS ALSO BEST 
+ everything is awsm for 14k range but its sound quality is what made me to return it. it does not have that base to its music which gives bass. 
+ good specs but a bit high cost is the reason... because there are a lot more phones with same or more specs at a lower price. 
+ Speakers not good, even Earpiece is not good.. Performance is going down as the days passby. Battery is Ok. 
+Removing backcover is big task.  
+It doesn't even cost 8000/-  
+ Merits
+HTC desire look and feel is good.
+Camera clarity is good
+Phone doesn't hang and no slowness issue. 
+Demerits
+as per the Add given in flipcart the OS version was Kitkat 4.4.4 but when i received the product it is 4.4.2.
+My headset is not working after 20 days of use.
+Price is bit high compared to other brand products. 
+ New Launch and as a new product has lot of bugs in it, manu features are not working properly and the accessories are not yet in the market...one the imp accessory Dot View Cover 
+ I m using HTC desire 620G from Jan 2015 .. And it is working Nicely.
+I love its features,applications,sound,vedios,etc. Its charging Capability is very fast.
+Overall It is Nice Mobile . 
+ Working,Camera clarity,Battery every thing is good but major thing is it doesn't support airtel sim..... 
+ Superb phone 
+Awesome display
+Good processor and ram   
+ sound quality is very bad. the camera is quiote good...touch quality is also good....front camera IS AKLSO GOOD....BUT THE SOUND QUALITY IS VERY BAD  
+ i bought it 10 days ago.surprised with fast delivery service of flipkart. phone is good but not much that i expected.camera result is poor compared to other products of sony and samsung galaxy grand or blackberry z10 in same segment of 8 megapixel.Look is impressive. Dont go for it if you love taking pictures. 
+ Hey Guys any genuine comments on this Phone..I am double minded in taking this phone...considering as new entrant and with lesser comments.. 
+ Hi Friend !!!
+I take this phone 2 months ago..
+I think it is the best phone in this range...
+1. Good battery, 2. No hanging problem, 3. No heating problem, 4. Video quality is very nice, 5. Both camera is beautiful.. etc....
+After all It is the best phone in this range... 
+ Acc to price it's RAM & internal Memory is too less.. But over all Good phone.. 
+ Good phone lowest price and good service flipkart h gd dghjjk 
+ Nice product.. I have been using since 1 year . No complaints 
+ Grt phn in 10000. Camera is good but processor getting slow when u install 3 to 4 apps..battry backup is littl good...avral its a good phn 
+ Great....awesome.....fantastic.....mind blowing.....simply superb 
+ It's awesome experience with flipkart . .good android phone for affordable price  
+ Nice product well build quality easy navigation totally awesome product 
+ This is worst phone, dont buy HTC mobiles and don't waste your money and your time. It work maximum 3 to 6 month only. 
+ D'nt Buy this phone...very wrost mobile phone. camera quality is very poor. sound is very poor......battery o my god.......very poor 
+ nice deal for htcdesire620g from flipkart, low pricing,
+smartphone is working very much satisfactorily, delivery was also unexpectedly fast. 
+ Operation is very slow. Even for contacts you need to wait for some time. Sensors are very dull. After disconnecting the call it takes some time to disconnect the call. Not good for this price. 
+ This is perhaps the nice phone for fast processing. Camera quality is good. And one thing I recommend to the music lovers not to use the packed headphone as it is not good enough for your device.
+This device has a 3.5mm Jack sound quality .....u can use better quality headphones and believe me I can feel it's sound quality.Go for it 
+ When I purchased in specifications flipkart mentioned 4g after delivery it was 3g no problem but HTC desire 610,phone I recently used brought from America that mobile was have good features compare to this phone also made in Taiwan . front camera ok rear average.this is Lenovo intex micromaxw same software having no difference 
+ After using more than one year I am writing and saying that phone is excellent..till now no problem. 
+ good phone wit god battery and flaunting screen offcourse with latest android and not to forget about tthe price which is value for money 
+ i enjoyed the product fully satisfied with it. working well not even a single issue notisced within 21 mnths. 
+ Worst phone . pls don't waste your money for buying it. It always hanges. 
+ It is a good and appreciable product and satisfy all my needs. Its camera is superb and is handy and can be carried at the minimum space 
+ Nice and good performance of the phone. good display quality and the swiftness of system is very good.. 
+ I am using this phone from the last one year & the experience was worst compare to my old Lumia 520. 
+1. HTC will not wake up to release updates to mid range phones while others do it.
+2. Hangs frequently may be because of Android issues. I was about to throw the phone as I was not able to receive the call. I think Lumia never hangs & I never experienced in my Lumia.
+3. Touch is of a normal quality as I was using a superior touch quality of Lumia.
+4. Camera quality is average. 
+ The phone is quite good in respect to an average user but not good for those who are always hooked up due to fast consumption of battery power. I don't not view vids or movies off and on. Sometimes play music on the way to home from office and check whatsapp 5-10 times daily. Once the download done, I disconnect the data connection but still when I return home there remains only 5% battery power. Think this is a major drawback for the set. Also other sets, in this price range, is having 2 GB RAM while this one is having only 1 GB. You cannot load much apps and have to be selective. Other parameters are awesome. 
+ It will work only 10 month , after that its show many problem, as below:
+1. Hanging . 
+2. Charger not connect in single try.
+3. Stop work . application open automatically  
+ I got the phone on my son's insistence and I am not disappointed with it. It is really a good product. Camera, pic quality is very good. Video quality is superb. On the whole I am very happy with my phone. 
+ Very good.Smart deal. Prompt and secured delivery. Product performance is excellent. I am very happy about the deal 
+ Best device in this price for brand lovers.
+Otherwise you can go for lenovo k3 note in this range too. I'm using both of these mobiles with no any complaint. Battery back up is the best among all devices I have used till now.
+The looking is such nice that one will not want to use back cover for it. 
+ it is not htc desire 620g it is htc desire 62o g ds which is duplicate not htc brand 
+problem in sliding screen 
+problem in connecting charger 
+ it is a best phone at that price. m using it from 9 months .there is no prblm in any case eg battery camera heating hanging etc 
+ Nice smartphone from HTC. Everything is good in this phone. Have a cover in the box. Flipkart Delivery is very good. Go for it. 
+ We have received the item before the date of delivery time. Received according to purcase mentioned.very good service by flipkart 
+ Please don't buy this product because HTC is not providing any new updates. 
+Total money waste. Go with samsung new models. 
+ The Mobile Is Best But The Storage IS Not So Good Because HTC Says We Are Giving 8 GB Internal And Give Only 2.5 GB And The Remaning Is For Software 
+ Nice product comes along with micro card worth of buying price also less compare to market, working good & aesthetic look am enjoying HTC......from Flipkart. 
+ After 4 Months, When ever u receive a call, the caller gets weird noise and too unbearable.
+The Screens gets blurred, Calls get automatically dialed. No idea what all it does. It turns out to be a 2-3 months good phone. No more than that. I would advice Flipkart to take of the phone from sale. Dad is so unhappy. 
+My Prev Review: 
+Nice Phone my dad liked it, But the the price dropped, before it reached me. No idea what to do if the price drops the next hr of your purchase. 
+ The only positive attribute of this phone is that it dosen't heat (maybe bcoz i don't use it much). Images, videos, audio files get erased from memory by themselves. One of the worst cell phones I have ever come across. 
+ its very nice phone, looks build quality ,performance ,everything is good. although there are other mobiles with better configuration in this price range but HTC is HTC. 
+ Fabulous Camera Quality
+Good graphics 
+Multi tasking - 7.5
+Over all - 8/10
+Fabulous Camera Quality
+Good graphics 
+Multi tasking - 7.5
+Over all - 8/10 
+ Worst company guys do not go for HTC mobile. I had bought HTC desire 620 G there are lot of issues in it . Two time it gone dead, flickring issues in it , one time battery changed , charger changed but still it is showing problem. Even my friends who bought Chinees phone in five or six thousand they are laughing on me because there phones are much better than my htc . It takes five to six hours to get full charge or give backup only six hours without using internet. And customer care in grand mall Gurgaon said that android give backup only for six hours.
+I can say that i bought DIBBA at 14000 rupees. So My dear friend i suggest never ever purchase HTC Dibba. 
+ pros: 
+good design,
+decent camera 
+cons:
+touch response is not friendly,
+battery backup is ok but need more 
+ it is a good handset and thanku flipkart for this & i suggest this model to everyone who wants to buy a smartphone under a budget of Rs 10000 
+ Performance not that good..there is a lag of min 2-3 seconds on click. looks like second hand phone.
+Better to go for 2 GB RAM phone. I GB not at all gud. 
+ AVERAGE PHONE,NOT FULL HD,BATTERY IS TOO NOT POWERFUL LIKE SAMSUNG PHONE'S,BUT OVERALL GOOD IN 10K BUDGET. 
+ i personally dont like this phone
+cons:
+bad processor
+poor build quality
+lag in gaming
+no feel of htc sense
+camera just fair
+bad front camera
+display also poor, needs to be FHD
+what else left??* 
+ Performance wise product is awesome under this range... From the last 4 months usage
+-Not facing any heating issue
+-No hanging problem
+And the last thing about this is HTC brand matters a lot... 
+ HTC Desire 620g DS is xcellent phone in terms of battery backup, processor outstanding, screen resolution damm good nd everything working well...I wud strongly recommend 2 evry1 who wish 2 purchase dis piece as dis hav all d neccessary basic requirements..Till now i never seen any pros...Go 4 it guys... 
+ I am used this product. its gives the best result with full battery back ups. 
+This is the very great product. 
+Glad to shopped it. 
+Thank you flipcart  
+ nice phone by htc ,no hanging ,good camera and no lag and can also run heavy games and no need to say anything about style 
+ Just 3 months back i purchased and the product is giving problems since 2 months-hanging for hours if I try to make call, restarting often, sometimes incoming calls are not shown and displayed as notification after some hours only. this is worst experience, never expected this from HTC and i doubt it is duplicate item. 
+ Best smartphone at a best price. Got it from the one of the priority seller that Flipkart has (WS Retail), and to my surprise got the phone delivered well before the scheduled delivery date. 
+The phone might be slightly big in the hands but the it will make you a stand out with its design and contrast coloring. 
+Sound quality of the phone is awesome. 
+Camera works great at normal lights, there is a slight amount of noise when used in night or low light conditions. Video as mentioned, supports full HD. 
+Has dot view feature in it, but will be useful only with a dot view case. 
+Stand by time depends on how you use the phone, with 3G the stand by time is average, lasts till a day. Without 3G it lasts for a maximum of 48 hours (here again it depends on the users). This is based on my usage with average use of internet and games. 
+HTC UI sense is not present in this phone, it is a combination of stock android and little customizations on the UI. 
+Overall this phone is a good choice. 
+ nice phone better than other mobile 
+nice battery backup 
+ Great camera and sharp images, Front 5mp rear 8mp with anti glare glass 
+ It's very nice phone for all budget buyers.. It's having good look, nice camera and battery backup... 
+ Guyz its a "HTC" brand says a quality.
+Great phone very speed
+No lags
+5.5 Inch
+Everything is Perfect. 
+ I have received my handset one week ago and it was good experiences with it as i have loaded too many APP but still working smooth without hanging. 
+ SUCH A GOOD FOR ITS RANGE OF MOBILE, IT HAS ITS OWN HTC QUALITY, BATTERY LIFE IS GOOD, CLARITY IS ALSO GOOD 
+ If you are going to buy the cell phone below the range of 15000 then HTC desire 620G is the best option for you. i will not explain the pros of this phone just will say try one time u will realize ur money is not wasted. and i Recommend flipkart to buy this cellphone.
+Superb cell  
+ simply super handset....working awesome......bt some times strucking.......its nt a major problm....nd iritating issue.....except that.....remaining..are superb....features are really fabulous....in it's cost 
+ The Phone is good as expected, Camera is very good in a daylight & bright environment but in a low light condition it is above average only.The sound is ok, not too loud or very less sound.The speed of the phone is really good & the most important factor is price yes Its too good for 12000 Rs.I will recommend this device. 
+ what do you want ? looks,,? you got it,,,trust me,,,the second you remove the box lid and take the phone in your hands for the first time,,,you will know what i mean,,!!! 
+you want looks inside ?,,the phone has an awesome display and features,,
+you want perfomance,,? ya,,its only 1gb,,,but dude,,,1.7 ghz octacore,,,do you want more..?? nope..!!! 
+the front camera is ok ok...i mean you wont get THAT beautiful selfies and all,,but put a b612 or a candy cam app,,and there ends the problem,,,the back camera with the 8mp is just fine,,,trust me again,,thts all you need,,
+and yes,,,no update to lollipop as of now,,,but thats good,,,kitkat is great too,,you dont wanna rush to lollipop and make your phone hang,,,cause many lollipop phones are facing that issue today,,,
+5 inch screen,,which is awesome again,,,,htc blink feed is fun.. 
+the price is a BIT high,,but hey its hTc we are talking about,,,branded thing bro,,!!!
+in short,,its worth every buck you spend,,,
+i am user of this phone,,,i am completly satisfied,,!!!
+exactly the thing i was looking for,,!!! 
+ HTC MOBILE WORKING WITH HIGH FETURES MOBILE PROSSESR IS WELL AND MOBILE NOT HANGING HIGH SPEED INTERNET SUPPORT 
+ One of the best phone, love this brand HTC got it for 14.5 k in january 2015 n til now its beyond expectations, and its features are too good.... :) 
+ I bought this phone since I had HTC ONE V ,it provided me good performance in Camera section with sharp images..But for Desire 620g camera is not at all good as well as sharp..Also videos stored as 3gp...Even low level phones stored videos in mp4 with high sharpened videos...Dissapointed...
+But performance and designwise I'm Happy.. 
+ found good but battery is not so good where as it is found dead when it is noon so it is not much satification 
+ just a awesome product from htc such a low price, processor magnificent(1.7 octa-core), comfortable with 1GB ram, camera both front and rare high class, sound quality good enough, and screen resolution outstanding..... go just grab it 
+ I really liked the moible doesnt have any problems , happy with the product and trust the seller WS Retails very much. 
+ The Phone is laggy.It is very difficult to use the phone during high time.Also the phone screen is vibrating sometimes while pictures are seen. 
+ It's a good quality phone and also gud looking nd stylish phone... I gave it full on marks.. its camera quality is also gud... nd also good processor...
+....... 
+ every thing is good but camera is not proper in low light conditions.and the flash is normal.front camera is also normal. 
+ Good Phone! Fast Delivery. 
+I would recommend buying this mobile phone from flipkart. Had to get the insurance done from a local shop as flipkart doesn't sell it. 
+ Browsing is very fast,
+and processor is good
+but
+a small un satisfaction with battery charging.
+very bigger in size 
+ The phone is very much hanging and is very slow . I am using this phone around 3 months and it had started hanging from the first month . I asked Flipkart to replace it but they tilt to go to service center . I went to service center but again the phone started hanging . it is the slowest phone I have ever used . if I would have knew it earlier then I would have opted for lenovo or lava . the only thing good about is the good camera 
+ using it since four months one big problems ..... working in perfect condition ...... it would be better if battery is a bit more..... finally satisfied with the mobile.... 
+ Very prompt. Delivered on Tuesday when they said Friday. Good work, Flipkart! 
+The phone has slight touch issues and bass problems. Also, only the bottom speakers play media, not both. Camera is excellent, but front is a little (manageable) noisy. Overall, a great phone which can be made far better by HTC. Kudos. 
+ everything works smoothly,primary camera is good but secondary camera does not give clear images. overall the phone is good 
+ nice product.... Very nice product as compare to other products within this range...If you buy this product you will be happy..
+ Flipkart team is also very supportive, in short you will not have any problem but at the time of purchase please confirm regarding warranty..  
+ The CPU is Octacore, but it is slower than a dual core CPU. There is noticeable half to 1 second lag in dialing, sometimes 2 second delay. 
+The screen isn't touch friendly and there's much friction. 
+The phone is extra lengthy and not palm friendly 
+GPS is poor and takes long time to plot location on offline maps (Real hardware gps) 
+Camera and Flash are just okay. 
+Overall a poor phone even for that price.  
+ I need my Product 
+ for past 3 days my phone is theft that wise the problem is started can u pls send my product i resive my new sim this 
+ I have brought this phone 14th of july.After using for 17 days the main thing in this phone is sound system both input and output.And about battery is they given only 2100 mah battery.While using wifi after charging 100% the battery lasts for 6 hrs only and while listening the audio music the battery stand for 9-10 hours. 
+ This phone is good except music output which is not up to the mark. My Lumia 520 gives much much better music output. Also call quality is not very good. Highly priced for this specification. Camera is very good both front and back and other stuffs are good in it. Speaker volume is a bit low and speakers output music also not that good. Overall I am not satisfied with this phone and I sold it after a couple of months. 
+ Advantage:
+1.Color is good and slim compare with other mobiles
+2.Camera quality is nice
+Disadvantage:
+1.Need lollypop update 
+ this phone cemera clear day time. nigt time flash light not good quality photo are not clear other phones 
+ This phone is just awesome at this price range... My friend uses this for quite some time now & itz features where the best so i taught of buying it... & choosing Flipkart 2 buy because it had the best comparative cost.. The packing and timing of delivery is superb. 
+ happy to get this mobile before the promised date.very good service by flipcart.delivered with good packing and on time.with a affroadble price. Good camera both front and rear.very good for selfie.powerful processer.with octacore 1.7 ghz.in this category it is the best mobile.very smooth and fast touch screen.battery back up also good .beautiful body design ,sleek and slim.will recomend this mobile who wants to buy within 12 thousand budget.compare to samsung and other company it is the best . 
+ A really dependent phone... Doesn't heat up on over use, battery life great, camera quality awesome (esp. with flash). Overall: Great product!! Ignore all other reviews and just go for it!!! 
+ Its a nice phn within the range.Superb configuaraton.The octacore processor with 1 GB ram make it unbelievable ...Thanks to flipkart to make this within a affordable range. 
+ camera quality is good for night clicks.
+storage is less in this prize.
+UI is good.
+working better but sometime slow. 
+ Thanks to flipkart for the delivery and the packaging of the item. The look of the phone is awesome with big screen and good resolution. The rear camera is really good, however the front camera is not that pleasing. The earphone quality is below average, one has to buy a separate good quality earphone by spending some extra. It takes a long time to get fully charged.
+The main disappointment is that the charger is not working. I never expected that I'll get a faulty charger with a 13k smarphone. 
+ Over all this phone is Good to have :)
+Nice look
+Better battery standby time
+No hanging 
+no heating issue 
+So many Good things in it 
+ i Compared with all brand's all Features With Price also But Best Device Found after 4 Hours Struguled to Compared all Brand's Device.. Now i Want to Say With Full Confident that this is Best Device to Use... And I Suggest to all This Device Cracked to Compare with Samsung Galaxy S4. 
+ 2 weeks experience... 
+Facing WIFI connectivity issue with this device how ever other devices are working with same signal and same configuration like moto g..etc, this is still giving poor performance like 1st generation of smart phone like Samsung and other devices. VERY POOR PERFORMANCE WIFI. 
+Others functionality is looks good..! 
+Not sure either this device or same model has same problem [WIFI], I have requested to replace but still I am not getting proper responses from Flipkart.  
+Still request is pending from 1week onwards.. truly very bad service..!   
+ This is surely a great phone on this budget.
+Camera (front & back), Screen, Performance and Design are very nice..Specially performance is excellent.
+The lack of the phone is the battery backup, I want little bit more battery backup from the phone..
+Overall it is obviously a great phone to have.... 
+ nice phone with appreciable features......
+stunning looks, sounds and of course..... superb service from flipkart.. 
+ I purchased this mobile 2 days back after reading all the reviews.....but i really disappointed with this phone. 
+Keypad is not smooth....space bar is not working properly..u have to click twice or thrice. 
+8 MP camera is pathetic....its worse than 5mp camera any of device.....front camera is ok.
+Moto G2 is far better than this device. 
+ 1) Device is not heating. Good performance. 
+2) Camera quality is poor. (May be it is good at this cost.)   
+ i got the phone on 24-06-2015.my experience with htc 620 g is awesome...nice camera it give good images even in low light.
+net is very speed( it has 1.7 ghz processor)
+awesome display
+no heating problem..nice battery backup 
+problems:glossy back cover 
+ very tight back cover 
+ Phone is good. But if you like music and listen to it on the phone then skip this phone,
+The Music quality as well as volume is very low on the Speaker and in any head phones.
+Headphones I used were Razer's Kraken and Electra, and trust me those are some phenomenal and Base heavy headphones.Yet I could not "hit the Base".
+I had read lots of reviews(always do) and all had it mentioned that "sound quality is low". i thought it might be people who are overreacting.
+ Then my headphones that can even make a 2 decade old portable FM player sound like a discotheque were not enough for this.
+Did my own thorough test with my older Lumia 620 and a micromax just to make sure. Another person present ( Just in-case my ears were playing tricks on me)
+I put the same song in both phones- "Same File" so Bitrate discrepancy will be avoided.
+Listened to different sections of the song - lows, mids and highs. All turned out to be inferior in terms of sound quality and volume.Especially the Bass. Basically the Music sounded very FLAT. EQ did not help in any way either.
+Also Sony 'in ear'- MDR EX110 gave unfavorable results.  
+Other features are OK. Dont go by the large specs of the cpu.At first it seems good . add a few apps and it goes slow. Multitasking--- Quite average- goes slow.
+Screen is great, looks stand out in the crowd and are very impressive (white)-coz black looks just like any other phone.
+The camera front and back are amazing.Nice photos in daylight. Indoors and low lighting need a quite steady hand.
+Videocalling is amazing on this phone due to a good mic and front camera.
+Battery lasts 1 full day with moderate use-music, wifi, chat, pics, calls, games.
+Need to charge daily. 
+I switched from Windows and found it very frustrating. 3 months now and I still do. 
+If your not that much into music and this fits in your budget... go for it.
+But this phone is not for music lovers. 
+ Phone is not good and not bad. Mediacore performance. Honestly better to find other phones than this model. 
+ Using htc desire 620. Happy with mobile. It's around 5.5 inches big phone. It would have been more better if it is lite weight. 
+All working well. Nice mobile :) 
+ I have been using this phone for the past 3 months.It has not hang even a single time.
+Its feel and look is best than the same typical Samsung phones.
+Battery life is one of the best i have seen.  
+ its earphone stopped working after two months.
+Its batttery is also not that good. Otherwise phone is good and nice looking. 
+ I bought this phone when it was priced just 13000/- 
+I am really happy using this phone, doesn't heat up at all.. Neing a Octacore processor, its super fast 
+The only drawback is it doesn't come with a gorilla glass... 
+Should buy it if you are looking for a decent priced yet high end phone.. 
+ Compaire with moto G and i found this is a better option, stunning looks with great processor.
+good product , also fast devilry from flipkart as usual no faults thanks to Flipkart 
+ Pros:
+Attractive Looks
+Cost wise its a great phone.
+Santorini White colour is the best compared to grey one.
+Front camera is good.  
+Cons:
+Rear Camera not that great.
+Headphones Sound quality is also low compared to other HTC phones. 
+ Very happy to have such featured phone... Lookwise "THE GREAT ONE"..... Battery support is satisfactory.. it last for 8-9 hrs if continuously 3G is on... Close your eyes and can go for this anroid kitkat version @ 11750/-... Loving it 
+ this moblie is very good product i used last two months but only one problem sound quality not good another wise goooood 
+ I am using HTC mobile from past two years and I am happy with its quality and features. This model is real worth for money and of course flipkart offered the best price. 
+ Good in hardware quality. Camera qaulity does not meet the expectations.
+For better camera qaulity, go for the HTC 816G. Better look and feel with good quality of pictures. 
+ HTC 620g is nice smartphone loaded with all features.lacks in storage space.1GB RAM is not sufficient & its unable to move application to SD card. 
+ ordered the product. then had to cancel. my bad..
+product is good at 13000 if not concerned for 4g.
+But with 4g go for other better options at same price.. 
+ Style is good But, 
+**** DON`T buy this because it is not having the option/not support to move apps to SD card ***
+You cannot install more more apps as you want since no option to move apps to SD Card.
+i sincerely not recommend to buy .
+Not easy to carry. 
+Even 8GB internal memory user can use only 4.5GB
+Android 4.4.1 kitkat first version not good.
+No good battery backup. 
+ Good smartphone under 15000 INR  
+cons:
+good touch response
+easy to hold 
+pros : 
+display colors is not vibrant 
+ i am buy a mobile rs.12500, very nice on this mobile nice camera..... its all performance is too good touch is too good......... any no issues on this mobile........................................................ 
+ Go for it who wants a good quality device within small budget. Good for playing games also. Display is quite good. 
+ processor is good 1.7 Ghz. 
+ 8 MP rear camera makes good quality pics . 
+Phone is so slim it looks good in HAND..Adorable !! 
+5 MP front camera is best for selfie.. 
+GO for IT..HTC.. 
+ i've been using it since last one month.these are the pros and cons that i observed..
+cons
+>it has started overheating even when no apps are playing.
+>battery gets discharged because of over heating within 2-3 hrs.
+>slow functioning sometimes if you you use 3-4 heavy apps.
+>earphones are not comfortabe. 
+pros
+>camera quality is good, specially front camera.
+>good phone in this price range.
+>perfect screen size of 5 inches  
+ Flipkart service is awesome.Product is so nice.Phone works excellent.Camera awesome.Mobile is very Stylish.Everything is fine.Thanks for HTC ,Flipkart and Indiabestbuy seller........ 
+ Giving 2 stars because got screen quality issue by flipkart. Two three pixels are not working. Screen shows some white spots. I got this brand new mobile from flipkart but got problem in 2 days, I think I found it after 2 days @ night when I was seeing a movie i saw 2-3 white spot on screen. Now I have to go to service station for repairing. If problem gets resolved in warranty period then its okay and if not then i will give only one star to flipkart.
+But exclude that talking about hTC Desire 620G its one of the best piece bcz we get it in that much of low price from flipkart. Five star for the mobile and its configuration.
+Con- It only don't have that much of battery backup. it long last not more than 12 hrs, if u install so many apps.
+I think if you have that much of budget then u can try this. Its a best option. 
+ Front facing loudspeaker, (as per spec on various sites, they say it has stereo speakers but only lower speaker works when phone rings and you play music) 
+Phone heat up 
+ Hey guys, just go for this. 
+I am getting battery backup of 1.75 days (Having Du battery saver in my phone) 
+Processing speed is too good. 
+No heating problem. 
+Light Weight. 
+User friendly. 
+Sound & Voice quality is awesome 
+Please go for this. 
+Thanks. 
+ excellent mobile from htc a good piece for less price https://www.flipkart.com/order_details?order_id=OD302639326351103100&src=od&link=order_number 
+ Very good product. The plastic felt a little flimsy though. Price point however is great. I bought this for 12500 and is a great product at the price. As usual the packing and delivery is great. 
+ Buyed it for my wife and in past one month the performance is good. Camera quality is also decent. Only problem faced is that once we inserted second sim the signal level of one sim is low even though both the sims are of same service provider. 
+ camera is awesome,picture clarity is good ,nice battery ,selfie camera is good ,game experience is nice. 
+however its not boom sound. 
+flipkart service is very nice. 
+ I am using this product from two months,it is best phone for a regular user.It is quiet impressive at look but when u start working it just a slugish with its meditek processor.One major drawback is that u cannot move apps from phone memory to memory card and it has only four gb memory avilable for user which make u upset.Overall camera quality is good. 
+ i m little bitconfused between htc desire 620g ds and xperia t3 
+please do suggest me that the apps and games are movable to sd card or not 
+ I had ordered this product (2 Nos) on 27-Mar-2015. Flipkart's expected delivery date was 7-Apr-2015. But i got my stuffs on 31-Mar-2015. Not only that, they acknowledged each and every stage of shipment through my mobile (SMS), e-Mail, and tracking provided in the site. The packing quality and goods condition is very good. Both the phones are working good... 
+As i read from lot of reviewes, the htc desire 620g ds is a good phone and best in class. especially both the cameras, touch screen, and the features etc...it is working in good condition and i am very much satisfied with this product and the service provided by the FlipKart Team. after that i ordered for two otg Sandisk pendrive of 16GB 
+ I really suggest to go for this as compared to Samsung Galaxy which comes in the range of some 16000+. 
+Better & best go for this and be fruitful.! 
+ the only reason you should buy this phone is if you are brand concious.
+It's HTC and it looks good, even with that glossy back.  
+it's a bit costly for these specs and the extra bucks you put in are solely for the brand name HTC. 
+i have used ot for a couple of days now and there are a few cons that i'd like to mention :- 
+--->SOUND OUTPUT IS HORRIBLY LOW- use the earphones and it's like lifeless sound, NO BASS , even with PowerAmp. There is one loudspeaker, at the bottom, it gives decent sound but at full volume, sound distorts a bit.
+So if you love music this phone is definitely NOT for you. 
+-->The video it records are in 3gp format !!!! 
+-->Camera is OK. Nothing great but okay. At times taking pics without blur can be a challenge. 
+-->The processor is octa core but it hardly behaves as one, coupled with just 1GB ram, you might face a bit of lag. 
+-->The memory you get is little over 4GB, the default disk can be changed but it still will store some data in phone memory. 
+--> the touch is good but there are times when the screen won't respond the way you want it, especially near the edges. You'll have to get used to it. 
+ I bought this phone and i thik this will b a great phone but i m worried about the battery performance . I hope this will b good 
+ it is really great to have it with in one day. in a delivery. 
+it was gifted to my friend so don't know about the product.
+ when compared it seems phone has very good features. 
+i always have crush on HTC... humanoid mobile.. its been always grt..  
+ Best product at best price... But programing of this phone is not well.................. 2 out of 5.......................................................... 
+ i m using this product. i consider it a great mid range phone. big display ,good primary camera and a superb secondary camera which deserve your best compliment. a smooth fast octa core processor will redefine your device.go for it. 
+ i ve completly satisfied with this phone..... 
+such a great phone....
+fully fit in my budget.......
+and best delivery service i got my phone in 2 days...... 
+ Quite a decent phone..
+Pros
+Excellent Hd display
+Good build quality 
+A good looking phone
+High performance
+No lags 
+Smooth gaming experience
+Nice rear camera 
+Cons 
+Cant move apps to sd card
+Glossy back
+So-so front camera
+Poor music clarity and sound 
+ It is a very good phone it compete Moto G2 But lacks in sound Because I Bought Both Moto G2 and HTC Desire 620g DS At same time It lacks in Sound Quality For Music Lovers Moto G2 is Better But in Performance HTC Desire 620g DS Is the Best Phone very good HD Display Processing Speed is good Over all Performance Is Good Better And Best But Lacks In sound 
+ This phone is worth buying. It has got excellent features ...Genuine product from the seller and got it within 2 days by paying extra 90 rupees.......fast delivery 
+ Everyone knows about all pros
+But dot view cover not working properly.
+Maybe HTC never wants give all features in midrange mobile. 
+ Working condition is good. But camera clarity is not effective. In this price Samsung is better to buy. 
+ i m use this mobile its excellent but battery backup is not good ,
+Rest every thing is excellent.price is very good ,
+really camera performance is wow......................................... 
+ I HAVE THE BUYED MOBILE HTC 620G IT IS GOOD CONDITION AND PERFORMANCE BUT WHEN WE WILL USE NO BATTERY BACKUP FASTLY DISCHRGING 
+ Hi,
+I purchased htc desire 620G. It is found that in the front stereo loud speaker top is not working. Contact customer support and did factory reset and power on in safe mode, but nothing works.So i replaced with same model but the problem continues. I think this is the model defect.
+Touch sensitivity is comparitievely slower than asus zenfone 5. For look asus is good. Loudspeaker of asus is bad. But spec of asus is better than htc. asus is cost wise effectieve.
+But no one can beat old models "Nokia".  
+Thanks to flipkart for replacement of same model and replaced with different model. 
+ pros
+1)good design
+2)good battery 
+3)nice camera front and rear 
+4)no heating problem  
+cons
+1) Ram should be increased
+2) music quality disappoints 
+3) glossy finish.  
+ The looks are this model of HTC Co. are very stylish, but battery backup is very poor and this I am teling without using NET and if u will use internet ur battery will drain out like waterso for 3G net users it is only good if the mobile is plugged-in everytime. The screen size is 5inches but the length of mob is Equal to Samsung Grand 2..
+Speakers are not compatible too.  
+ Internal being 4Gb only (for user) if you install any app its directly going to Phone memory only and there is no provision for "Move to SD card". So you can install only limited apps without deleting the existing apps.....If you want more apps don't come for this phone..I am struggling with this phone. frequently hanging also. 
+ Dear Sir, 
+I want change the colour Htc desire 620G.
+Please change the hand set in milky colour to whit colour. 
+ GOOD LOOKING.NICE PIECE.NO HEAT COMPALINTS.EXCELLLENT PIECE.ROM AND RAM IS GOOD.PRIMARY AND SECONADY CAMERA IS GOOD 
+ got in a day after my order.. a good mid range mobile with latest updates.
+i have been using it for past 15 days.. am satisfied with all the expected features.
+on my experience here are the pros and cons.... 
+pros ..
+1.gud looking handy mobile
+2.sec cam is damn good... sharp selfieees
+3.processor is good.. so far no lags.
+4.worth for money 
+cons..
+1.primary 8 mpx is not good.
+2.mobile not rooted.. cant move apps to ext sd. need more internal space (ony 3.8 gb available)  
+ it's been one month i am using this phone. i didn't face any issue with the phone yet. 
+*Battery back-up is okay okay..
+*it has 5mp Front camera and it is superb.
+*Really good for watching videos.
+Overall its a good phone. 
+ very good mobile,front and back camera good quality performance also good.i am purchase last 3 days befoe 
+ hi, i recvd this santroni white from flipkart on 27/01/15 ,... 
+in the matter of hand set quality( brand new and well packed ) and delivery time was satisfied by flipkart ...
+now about device ...
+1) not up to expectations ... screen was not looks like hd screen ,its not clear like samsung .. 
+2) camera was good ok , but not great , my personal feeling was samsung has great photos even in s duos 2 ... 5 mp rear cam ... ( iam the previous user of samsung s duos 1 & duos 2 ...) 
+3) themes and widgets are not atractived me ... 
+4) screen looking big ... looking like phablet .... 
+this was my review only after 3 days .. after full usage of hand set , i will give my feed back again ... 
+but finally i should go for samsung grand 2 r moto g2   
+ this is an awesome phone...high performance and camera quality too...sound is also good...good battery life..looks awesome too..must have for people with low budget 
+ not a worth of 13K because of its Plastic body. looks like a dummy set.
+if coming in heavy discounted rate, thn only go for it 
+ average phone..sound quality is so poor in headphone..camera quality was very poor..motog is better ,,,,,, 
+ its price is $160, i.e Rs 10000 approx in INR....but all are selling 13.5k to 14k in india..and even flipkart more than that nearly 15.5 k....expensive 2much... 
+ Hi Guys, I got this cell from flipkart for my one friend. The cost with htc brand makes it a competitive phone in this proce range. Front facing speakers, blue bezel are some good points about its ddesign. The first look of this phone is awesome and overall it works cool but it does feature some negative points as well: -
+1. Touch screen quality is not good. Feels little sluggish and lagging
+2. Default launcher of htc in this phone is a disaster. Use Go launcher ex prime if possible to improve your experience.
+3. Battery works for a day for normal use but with heavy use you might have to recharge twice in 24hrs.
+4. Soft touch button are absent it uses touch screen as soft touch button so reduces screen size for normal apps.
+5. Sound quality is good but volume is little lower on earphone compared to other phone in this price range. 
+ for those who loves to click pics and are not addicted of playing lot of heavy games.....battery backup suoerb.... no lag till now.... clean and sleek look....good quality sound.... worth buying ....just go for it... 
+ M using this phone lst 7 days nd der is no hanging, battery, heating problem in this phone.
+much beter camera nd speed den other phone at this range.
+only one thing is missing LED Notification light.
+ohterwise the phone is Superb And Just Goo for it if u Planning to buy a cell phone at this price Range :) :) 
+ 1. true octa core processor
+2. front and rear camera is awesome.
+3. very good flash light
+4. no heating problem
+5. much better than moto E 2nd genration and samsung grand 2 and other mobile of samsung and micromax 
+ superb phone ...... 
+ I brought this phone in Rs.12600/- with hdfc cashback offer. Very happy with Flipkart price helped me to save more money. Phone is awesome. Real octa core performance with good camera and display... Overall best phone at this price.. 
+ 1. Very good battery backup.
+2. Touch was nice
+3. High quality Image and Video  
+Best compare to Moto G2 
+ I HAVE JUST ORDERED HTC DESIRE620. I JUST WANTED TO KNOW WHETHER THIS PHONE IS COMPATIBLE WITH GSM + GSM. KINDLY GIVE ME A FEEDBACK ON THIS AT THE EARLIEST. 
+ brought it in december no problems decent specification and a smooth running phone good phone by htc.... 
+ This phone has a beast as its cpu but doesn't has the necessary ram to match the cpu.
+I recommend ASUS zenfone 5 over this phone anyday 
+ This Phone Best price should be RS12000 . 
+And other website are selling this phone in wery less price  
+Regards   
+ Ni nice phone with lots of useful features.a budget very effective with quad-core processor ..it looks gr8  
+ As usual WS Retail have broken all records of immediate delivery and I have received my order within 2 days, inspite of ordering beyond business hours. Thank you WS Retail. :-) 
+ Awesome Speed
+Awesome Screen
+No Lags
+Games will run like hell smooth!!
+battery backup is of almost a day!!
+Touch response and sensitivity is upto mark.. 
+Rest for the music in the earphone you can go for another set of good ones and njoy the bass!! 
+Dont think even for a second.. Just go for it!!
+All the best!! :) 
+ Hhi friends I have been using this mobile from past 3 days .its really superb... But only finding difficult in batteryyy..average performance by batteryyy...rather than everyyy thing is gud ..even the gaming is also gud..whole performance is guddd.....looks goud .performance and processor is excallent 
+ I was in need of a smart phone that came between 15k to 17k after I lost my sony xperia sp. All i needed was a smart phone with a good processor and not the extraordinary 1, after all i was planning to buy a smart phone and not a laptop or a PC with such and such processor's and etc... 
+pleasing battery performance, good camera,strong, hard and a guy type smartphone was enough for me. It depends upon for what purpose a persons is in need of the product. Personally for me, I need to click bills, video record the needed data, etc, and mail it to destination where i want to or had to. Thanks to Flipkart for helping me go through various phones, reviews and tally them,though i bought this phone from a close by store. I had a pretty hard time while deciding which phone to buy: GeoneeE5/ Huawei6/sony xperiaz ultra/htc desire 620G...
+Finally I landed up in buying Htc Desire 620G. I'm happy with what I chose. And the product is giving me the satisfaction that i wanted...
+And, in the end... for music heads its 50/50.. ha ha ha... but sound quality and features provided are good if you have a good ear for music. 
+Now its your time to experience and choose. 
+ all you bitches who don't know how to speak English....plz dnt comment in the review section its so embrassing .... now coming to the phone ..its a gr8 mid ranger.... with gr8 specs that beats samsung or sony any given day and dnt compare htc with moto g bullshit
+i bought this phone recently... and i dont have any issues with it....
+.... so u dumbass people...stay out of this review section if u dnt knw how to speak proper English... 
+ these guys @ flipkart r freakin fast while delivering...ordered after midnight...got a wakeup call from the courier guy !!!!! ;)
+the fones gud...only grudge is the loudspeaker...which is not stereo...but jus a low mono speaker with weak output(though ringtones sound better than music files)
+both cams good!
+cant comment on battery life as have used only 4 a day...but felt that the phone is a gud alternative to the new moto g 
+ A request don't buy this phone..Display issue arose just after 1 year .No addressal by HTC.
+Don't spoil ur hard earned money 
+ Htc is not a good mobile.. just using it 2 months & many problems are arising.. like charging problem...... 
+ I purchased this phn on 2015 of january by paid 15 k bucks. After five months , hanging problem started up.And now, I can bet with even HTC they are not able to resolve its hanging stuffs and the second or most imp point for music listner which are fond of high beat musics, plz don't reffer this phn to anyone due to have its worst and lowest quality of audio. 
+ I had ordered it like an "arrow shot in the dark". First, they delivered before time and second, it has turned out to be quite a good model.  
+Cheers
+Richard 
+ don't buy any thing from flipkart it cheeting with customer 4GB except 8GB internal memory HTC Desire 626G
+any one can help me 
+ Worked good for first two months.Then it started hanging.No voice can be heard on calls.Totally Unsatisfied. 
+ the phone is not original. it's definately chinese product. flipkart matlab bilkul duplicate. the hone is definately chinese piece. and flipkart says that phone is duplicate. 
+ Hi,
+If anyone wants to buy any HTC phone, then think again. 
+The phone I bought is start malfunctioning after sometime and it stopped reading SD card. I thought it is problem with SD card but replacing different SD card did not resolve the problem. 
+I visited to service center and they say you phone is fine and problem is with SD card, then I tried the SD card in other phones, it is working perfectly all right. 
+Customer support are worse in HTC and don't expect any help from them. 
+I would suggest to buy a chinese phone instead of HTC. 
+ Flipkart sold this phone to me by displaying 4G but its not 4G Phone .
+flipkart is totally responsible for this mind game.
+I have all proof regarding this.  
+and no call made to me from flipkart regarding this fraudulent 
+I am confirm and will not change my statement. Its true.
+Now the specification has been change 4G to 3G by flipkart.
+and i am still help less. 
+ HTC 620G is the worst device i have ever before .I tell you please don't go for buying htc mobiles.  
+To tell you even the service centers are not good for this device. 
+ Good mobile htc always good..bt nt user friendly ............ 
+ how can i improve its sound  
+ m 
+ I bought htc 620G from SalesEmporium via Flipkart, The phone itself is a great device to handle and use, Great performance and look in this range, But i received this phone with defective camera and the seller SalesEmporium refuses to give me replacement even i haven't inserted sim and all accessories was intact, Flipkart also didn't helped me, There email was not working ( tried 2 time but showing over quota ) and customer care on phone told me to install flipkart mobile app and even they rejected my claim. I am regret my purchase with flipkart. 5 STARS for phone even with defective camera and 0 STAR for SalesEmporium and flipkart customer support. 
+ the piece is not having proper ear phones,ear phone jack in mobile is not working properlybater life is decreasing while i bought it just 2 weeks back 
+ I Purchased HTC 620G Desire mobile set in Feb. 2015 since then it is with Service Centre only. After repairing service centre people return it with two new defects. HTC mobile is most unreliable and defect prone set.
+-CP Mishra, 
+ flipkart loosing reputation due to this type of sellers 
+Seller :SalesEmporium, Seller cheated us, Extremely dissatisfied...Seller stated that its An 4G,3G mobile. But it only supports 3G not 4G.. Even i contacted HTC , even they informed that its an 3G mobile, Seller cheated me. 
+ The battery backup of the phone is very bad.it is not up to the requirements.hell with it 
+ Display is Crashed aftr 1 day only...i hv raised a return and refund complain. Let see what happen next. 
+ i just ordered htc 620G santroni .
+waiting for the new year year splash."wondering bout its specifications and sleigh to far deep in snow in my lahoul valley boom baba 
+ The product delevered by flipkart is old and the phone camera quality is not so good.Function of the phone is good but its look is not so attractive also if you use this phone without backcover then it may slip from your hand. 
+ Pathetic Mobile. Its hardly 6 months and its not turning "ON" now. I know there will be no response from the service center on call. They will ask me to pay for the repair and then say i cant claim the warranty because 6 months completed yesterday.  
+Sorry HTC , you suck. 
+ Previously I had written a good review about this phone 5 months back, a couple of months since I had bought this phone. I take back each and every pros I said about this phone after using it for around 8 months now. Just remember this "WASTE OF THE DECADE"..yeah..thats what this piece of junk is..All my misery summarized below: 
+1. 50% probability that I Cannot attend call when I receive a call (worst case effect, I missed a good job offer)
+2. 75% probability that the dialler will hang when I am about to call
+3. The phone heats up pretty fast like an oven while multitasking
+4. 30% probability that most apps would hang
+5. I have to wait about 56 seconds for the contacts to load before I make a simple phone call
+6. 15% probability for the battery to drain fast and exhausted in 30mins on any given day
+7. My precious pics in the gallery got corrupted and lost my photos on multiple occasions
+8. Overall, slow as hell..Like it wants to teach the user the meaning of PATIENCE..!! 
+At the end just to mention a few good things(not many though) maybe just to console myself for not believing this was the biggest mistake in investment: 
+1. Good design and look
+2. Front & Rear camera quality good
+3. Quick charging 
+My advice...Please do not waste your money on this waste. 
+ I got this product from flipkart & it had a 10 days replacement warraty. Unfortunately I started using this phone only after 6 days from its receipt. Now the product has many problems like no call indication very slow performance & now it is absolutely of no use.
+Now I don't know what to do? Even the HTC authorized service center peop;e saying that online purchases are not supported by them. Now this is a big problem for me. 
+ am waited for this courier but not came in last date also am so much.........
+addres also correct oly then y return my order con't see this mobile
+this mobile seeing pic oly nice looking am before used on htc desire 120 that mobile that s better 
+ I like to know the present amount in my giftcard code 6000170017680200.. and if the amount deducted for my flipcart order has been refunded.  
+ Do not go for it, not able to catch signal, most of the time going out of reach. Missing so many calls. Sometimes callers getting receiving my mobile switched off. Takes more than 10 sec to send messages. Touch also not much smooth. I don't have option to exchange or return.  
+ As an HTC Desire user, I like the mobile brand. But could not understand why in India alone there is a huge difference in price between color in all online stores. If the grey model can be sold for 9.5 k then why other santroni white model costs 1k more than that.  
+Also this is 3g model and make of 12 month old still online stores increasing price. 
+ Recommend people to not buy electronics or mobiles from these guys as they are not returnable for any reason. Here you Can't even see the product and once you get it..you don't find it good and you ask for a return they have so many terms and conditions which are not displayed on the site. In this care I would rather recommend you to walk down to a nearby store and purchase as at least you will have the satisfaction that you have physically seen and tested the product before purchase as it is not a 1000 to let go..you block 10K of yours by keeping a product which is not worth it. I always had a good opinion about online shopping, however these guys have changed the view. You guys still wanna go ahead and purchase. I personally say a big No to these guys and ensure that none buy electronics from them. This was a lesson to be learnt. These guys don't realise that they are loosing on to one of a petty issue. Trust is more important guys and there return policy is deciving. They are not clear with their policies which is fraudulent. 
+ good phone at this price .
+Go for it if ur budget is low.
+......................................
+..................................... 
+ please send the item fast what we ordered and dont repeat it for others and be a best online fast delivery service 
+ The worst service provider i have seen till now. Its more then a month and they cant repair a minor problem in my phone. That's not only with me i met most of the people at service center who have given their phone before 2 months and still getting dates to be returned 
+ Don't buy this model very bad ,, i faced so many problem . service centre denied service buy from flipkart. 
+ very regret to inform you that against my complaint, one of your service man visited and repair the set, but after 8 days, again I am facing the same problem. I am verymuch upset with mobile set. so requesting you to kindly return this set at the earliest   
+ I Gifted This Mobile To My Brother But There is Hanging Problem & Battery Backup In the Mobile. I Complaint To Flipkart Within 1 Week Of Receiving The Product But They Closed The Complaint Saying That Unable To Contact You, Now Earphone & Charger Is Also Not Working Of The Mobile. Very Bad Services From Flipkart & Mobile Is Also Not Good. 
+ last one month back i bought this phone.......it is excellent phone and super picture quality .superrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 
+ Excellent product at this price. I have faced issue in terms of purchasing from flipkart. By mistake i had broken my LCD screen. When i visited HTC service center they said procure original seller's bill; to avail warranty benefits. Even the customer care executives highlighted that purchases from flipkart wont get you warranty. 
+ i have used 2 mths but phone not SO GOOD. this phone is stuck a 2-4 apps opened . sound is not good its BEKAR like this. so not purchase this phone. NAAM BADE DARSAN CHHOTE...... 
+ i have purchased product in march'15 but within 6 month, it screen loose color and screen blank , dont buy it from flipkart 
+ Its seems good,Some unsatisfied with unsupportable of 4g, Android version and Camera Pixel's................................................... 
+ FLIPKART is a fail in delivering the products on time. courier service is pathetic esp. RED Express.You are clueless where your order is when should you expect to receive it. These people tell you a fake date and on top of that pass on your order to some local courier who keeps fiddling with the product for days.
+Worst experience shopping here and wasted my 10 days, rather I could have have got a better quality product and that too before time from its rivals. 
+WORST FLIPKART SHOPPING 
+TOTAL ZERO 
+ Shopped Phone 4 Months back...Flipkart delivery is awesome...Except Battery life phone is good Mid range phone 
+ First they took 1 week to dispatch the mobile from their warehouse... 
+after that long wait finally i got the mobile but guess what, that was the faulty mobile. it did not accept any sim card. so i had to return it. and they took 6 days to refund me my money. 
+worst service. 
+ hey guys i had just order this phn. works good,its beautiful,camera is superb but the sensor for notification on the screen does not work. when i askd for replacement they refused,cash bak wil b aftr they take bak the product which i dont knw nw if i should trust. secondly if u pay this much u expect ur product to be absolutely in a good condition whic doesn't always happen so i m kind of disappointed. its ur good luk if u get a non defected piece. DONT BUY PHNS ONLINE. 
+ Have been waiting for Authorized Service Centers from Flipkart team from almost a week. Sent reminders but still no response. 
+Have no issues with Seller but the support from Flip Kart is really too bad. 
+Warranty time close by and Flip Kart is having hard time to get Authorized service centers in Secunderabad , Hyderabad or Madhapur , Hyderabad. 
+ is this phone android version can be updated from kitkat to lollipop?
+does the camera quality is good?
+whether is it useful for high speed processing 
+please help me.........  
+ Really Disappointing, expensive mobile, dont go for it, bad camera perforace
+low build Quality, best hardware performance, looks normally 
+ I have this phone since last 6 months and I regret buying this phone.  
+Major issue is that you cannot move Apps to SD card. Which is a limitation considering you spending 14k on the phone.  
+The support for this phone is almost zero and you don't see htc guys responding to queries regarding this phone. 
+There is no news on the OS upgrade.  
+Better buy some 8k Mobile if you are okay with these things 
+ Audio is not working when hear the music, I tried to return the product but they are not accepting my return request. Don't buy the mobile in site, go directly check the product and buy it. This is my experience in online shopping 
+ This mobile i bought at RS 12950/- from flip-kart. delivery at expected date . till now performance is also very well . thank you flip kart. 
+ Got this delivered by flipkart within a day so thumbs up flipkart for it 
+Flipkart : you guys rock - super fast service
+phone is awesome....  
+ HTC has the worst services in town, if you want your time and money is to be wasted then go for HTC. Believe me we are 3 people who got HTC 4 months before and we all are suffering since then. Issued in public interest. 
+ Smart camera, good display, verry fast phone, good looking, .................................................................................................................................................................... 
+ I want to buy this phone but i have a question. This phone updates from Kitkat to Lolipop. Can anybody tell me ... 
+Let me know this 
+ With in 1 month of purchasing top receiver of my phone got spoiled went to service center they took 10 days to repair then it started to giving network problem then again went service center they repair it with in one day again top receiver was not working then service center ppl told to replace the cell . when i called to customer care regarding this they denied my request then after so many of call finally agreed to replace and they took 2 months for it .
+customer ppl takes minimum 30 min to receive call and in between call will get disconnect .
+once you call they ask to call us only back after 2 days , when we call after 2 day they will repeat the same very bad service.
+Pls don't ever buy HCT any phone worst service by customer care and service center. 
+ sir, i am from himachal pradesh distt.kangra (pin -176215) i want to place my order of htc desire 620g in dharamshala. but it shows unavailabilty of any seller here. kindly place a seller around this place. 
+ Touch screen stopped working after 1 month and i submitted the phone to HTC service center.
+It is more than 2 weeks and still touch screen is not replaced.
+Service center people will never pickup the call and you need to call HTC customer care to track whether mobile is repaired or not.
+Very poor customer service. 
+ Well its a nice phone but i got a defected one.......with a defected display.Battery life average bt u can preserve it if u have techniques to do so. Sound quite loud. Leaving the defected display which i got, phone is good, nice features bt lags a bit(might be because the 1gig ram). If anyone is a moderate user and is satisfied with 1 gig ram then go for it.... 
+ Requested return couple of time but no action taken. Very disappointed. I have been a good customer of flipkart, Seller is spoiling flipkart's credibility, lost all faith in it. Please make arrangements to get my refund and restore the trust. 
+ Disappointed with the handset I have received. Realized that my handset is not working as the same as the one my friend has. the gps in the handset is a mess. 
+ Hey friend I want to buy dot view (flip cover) for my HTC 620g, can someone tell me does that case work on 620g even though flipkart is selling for 620g does anyone have or used please tell me 
+ perfect fone................................................................................................................ 
+ price is very very higher than all other shop and other shopping sites. this is cheating the the customers. .... 
+ First :No Response from Flip kart and it's vendor Currier Agency 
+Second:No Contact or address available for customer who want to contact directly to contact agency and track it.
+Third :Flip kart call back services is worth 
+ i m regulary checking price if this modal on flipkart. on an average rs.1000 up & down in price. 
+is it gambling in price of this mobile?  
+ guyz i amgetting confused.....just tellme did u all got all accesories with the phone such as usb ,charger , earphone???
+because they havent mention anthing in the product description regarding this...help me out..as soon as possible....thank you.... 
+ hi friends i hve bought this product at around 14,555 this phone is completly a shit product from htc,i have bought this phone from flipkart thier service is too good 
+pros:
+its camera both front and back is superb in day but front camera is average in night conditions
+design it give a fresh look 
+cons:
+it's sound it is very very very poor it was zero bass so persons who where intrested in music please avoid this 
+heating very fast
+resolution is very bad 
+phone is lagging
+no gorrilla glass so you have to handle it with care 
+i have replaced this mobile flipkart as well as thier customer care officials are so humblethe replaced me without any problem
+thank you for reading this 
+ nice service by flip cart.i recieved it today,It z working very well........................................ 
+ Ro raha hu main sun rahe ho na tum ... 
+I have some other songs also, but i would like to save them for next. 
+ KINDLY CHECK THE BOX AND LET US KNOW RADIATION DO MATTER.HTC PPL R NOT MENTIONING THAT MEANS IT MUST BE HIGH 
+ I am buy the htc desire 620 in flipkart ,while am receive the product and try to switch on and charging but cell not work, immediately am return the order,tolk with customer care and excecutive collect and check the product and he was open the cover ,both we are shocked because no battery in that product.plz be carefull while receiving and check the cover also sometime flipkart cover not provide only box provide,that time not receive the product reject it. 
+ i orderd this phone and status showed it has been packed, next to it it showed after few hours that it has been cancelled .. wtf. why flipkart puts on fake order tracking option. and the biggest blunder... they play with ur orders and dnt evn bother about your wallet... screw this. worst experience with this order. 
+ how does its gps works.i'm more interested in gps system and skype video calling,please tell me somebody about it pl. 
+ I purchase this phone 20feb 2015. next day i face some problems. This phone have many problems Like, When i play a mp3 song phone reboot automatically, touch not working properly, when i scroll a page its getting Hang. on 22feb 2015 i send a request to return this product and i fill my all bank details. next day executive call me around 4:30pm. His statement was change, He told me troubleshooting steps but i am not satisfied , than he tell me clearly this is not flip kart policy to refund the money. now i realize Flip kart making fool the peoples,, This is my last shopping for flip kart , trust me guys dont use flip kart, this is only wasting of money.. 
+ Please send me bill for this item I don't have bill I means No warranty for this product and no service in India  
+ i need deliver the product by today , if not possible i want cancel the order, kindly replay at the earliest 
+ I have been buying items from flipkart for over past 18 months. However, this is my worst experience with online retailer. I ordered a HTC Desire 620G which was scheduled to be delivered on 14th of February. Neither product was delivered nor I received any update on same, forcing me to buy product from retail store of HTC.
+ I am afraid, I won't be making any further purchases from Flipkart. 
+ They charge additional amount for express delivery, but they can't deliver in same day.. Worst flipkart services.. 
+ i paid the money and there were no earphones in it and there was no charger. flipkart i sdoing cheating customer . 
+ please include the internal memory of mobile in your refine.......................................................... 
+ CAN GET A MUCH BETTER PHONE IN 14k ..................................................................................................................................................................... 
+ Flip cover received with mobile i of HTC desire 820 instead of 620.mobile is nice one..packing also nice.. 
+ i just wanna know can we download the applications on our SD card or only phone storage will be used.? 
+ you delivered my without seal pack box of mobile box.... this is used phone...if will be any problem in handset ... so i will replace 
+ fastest delevey & nice phone......................................................................................! 
+ Almost everyone has mentioned all the pros. But cant stop thinking about its sound quality. Totally a waste.. Didnt expect such quality from htc. If anyone has any suggestion about how to enhance the sound, plz suggest. 
+ htc mediatek devices r not compatible for sense 6 due to some internal problems in mediatek. this phone also dont have boom-sound tho it look like but its not! another thing mediatek devices r slow! and a personal experiance htc mobiles r 95% not repairable if u drop ur phone in water ,so guys 14k price is not less to waste ,think before buying (: 
+ nice phone................................................................................
+...................................................................................................... 
